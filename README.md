@@ -1,8 +1,8 @@
 # Moss
-<img width="1190" height="696" alt="Screenshot 2026-11-03 173300" src="https://github.com/user-attachments/assets/0fcbe41b-395a-4477-86e3-18fe71234d91" />
-<img width="1191" height="689" alt="Screenshot 2026-11-03 173250" src="https://github.com/user-attachments/assets/e35d238a-f13c-4dea-91df-0427c4b8fa3c" />
-<img width="1192" height="691" alt="Screenshot 2026-11-03 173237" src="https://github.com/user-attachments/assets/124651bd-3788-43f7-a746-cf651f118791" />
-<img width="1187" height="699" alt="Screenshot 2026-11-03 173051" src="https://github.com/user-attachments/assets/4e7fe486-e94a-4382-ace0-cbec02547aa7" />
+<img width="1190" height="696" alt="Screenshot 2026-11-03 173300" src="https://github.com/user-attachments/assets/e4c1e342-3d49-4491-b638-c8620dbfbb13" />
+<img width="1191" height="689" alt="Screenshot 2026-11-03 173250" src="https://github.com/user-attachments/assets/0c78590a-816d-4c08-afff-fb3b8466e783" />
+<img width="1192" height="691" alt="Screenshot 2026-11-03 173237" src="https://github.com/user-attachments/assets/ce48cde8-45e0-4027-8290-ad3608188365" />
+<img width="1187" height="699" alt="Screenshot 2026-11-03 173051" src="https://github.com/user-attachments/assets/6257dc8f-60f5-424d-8f24-a61a3770da45" />
 
 A free Minecraft: Java Edition launcher for Windows, built for low-end PCs.
 
