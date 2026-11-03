@@ -13,5 +13,5 @@ A free Minecraft: Java Edition launcher for Windows, built for low-end PCs.
 In development. First public release: late November 2026.
 
 ## Links
-- Discord: (add invite)
-- YouTube: (add link)
+- Discord: (https://discord.gg/eVNCKMvPeX)
+- YouTube: (https://www.youtube.com/@usemossclient)
